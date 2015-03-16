@@ -47,6 +47,13 @@
             android:layout_marginTop="5dp"
             android:onClick="stopSound"
             android:text="Stop" />
+        <Button
+            android:id="@+id/next"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:onClick="nextSound"
+            android:text="Next" />
 
     </LinearLayout>
 </FrameLayout>
